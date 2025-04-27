@@ -17,8 +17,8 @@ This is the frontend project of a fullstack application built with [Vite](https:
 1. **Clone โปรเจกต์จาก GitHub**
 
    ```bash
-   git clone https://github.com/elephz/todo-list-frontend.git
-   cd todo-list-frontend
+   git clone https://github.com/elephz/todo-list.git
+   cd todo-list
    ```
 
 2. **ติดตั้ง dependencies**
